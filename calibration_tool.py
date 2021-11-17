@@ -1,6 +1,6 @@
 ###############################################################################
 # Woking Calibration Tool                                                     #
-# Designed for Woking Greens Project's Network Stations.                      #
+# Designed for Woking Greens Project's Network.                               #
 # Version: 1.0                                                                #
 #                                                                             #
 # This script is made to auto-calibrate the particulate matter data.          #
