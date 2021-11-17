@@ -1,9 +1,13 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-# woking-calibration-tool
+Woking Calibration Tool
 Calibration tool designed for Woking Greens Project's Network Stations.
 
-This work is licensed under a
+This script is made to auto-calibrate the particulate matter data.          
+Its basic use consists in run the script inside a folder that contains data from all sensors. It generate the file "data_calibrated.nc". 
+This file is in NETCDF format, ideal to be used with the "xarray" library, and in many other applications.   
+
+Woking Calibration Tool © 2021 by Leonardo Yoshiaki Kamigauti is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
