@@ -1,6 +1,6 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-# Woking Calibration Tool: Calibration tool designed for Woking Greens Project's Network Stations.
+# Woking Calibration Tool: Calibration tool designed for Woking Greens Project's Network.
 
 This script is made to auto-calibrate the particulate matter data.          
 Its basic use consists in run the script inside a folder that contains data from all sensors. It generate the file "data_calibrated.nc". 
